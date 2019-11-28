@@ -1,0 +1,7 @@
+doqu
+sqlalchemy
+werkzeug
+flask
+flask-sqlalchemy
+auth
+Flask-Login
